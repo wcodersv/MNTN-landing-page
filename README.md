@@ -1,6 +1,6 @@
 # Верстка сайта по макету, включая бургер меню при адаптации с помощью JS#
 
-### <a href="https://wcodersv.github.io/MNTN-landing-page/">Посмотреть сайт</a>
+### <a href="https://wcodersv.github.io/MNTNlanding-JS/">Посмотреть сайт</a>
 
 #### Задачи ####
 <ul>
